@@ -1,4 +1,2 @@
 # to-do-list
-This app enables you to create a simple to-do list by typing in a task and then adding it to the bottom of 
-a pre-existing list with the push of a button. The purpose of this project was to help me learn some  
-fundamentals of the Swift language and iOS development. 
+This app enables you to create a clean and ordered to-do list by typing a task into a field bar and pushing a button. The purpose of this project was to learn some fundamentals of the Swift language and iOS development concepts. 
